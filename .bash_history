@@ -14,3 +14,9 @@ git config --global user.name "GuitarSWP""
 git config --global user.name "GuitarSWP"
 git config --global user.email 6010110378@psu.ac.th
 git status
+git add --all .
+git remote add origin git@github.com:GuitarSWP/3sb04.git
+git push -u origin master
+git remote add origin git@github.com:GuitarSWP/3sb04.git
+git push -u origin master
+git status
